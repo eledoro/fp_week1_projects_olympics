@@ -1,0 +1,14 @@
+html,body{
+   
+  }
+  
+  .mainText{
+    color:honeydew;
+  }
+  
+  .card-body{
+    text-align: center; 
+  }
+  .card{  
+    background-color:rgb(189, 187, 187);
+  }
